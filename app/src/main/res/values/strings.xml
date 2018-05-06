@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GoogleMap2</string>
+    <string name="google_map_API_key">AIzaSyAF7W4fxjL0tRw_XLppwqFeaR3onzvOAPo</string>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <array name="bg">
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+    <array name="SL">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Other</item>
+    </array>
+</resources>
